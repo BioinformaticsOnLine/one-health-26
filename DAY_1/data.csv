@@ -1,0 +1,11 @@
+SampleID,Species,Collection_Date,Reads,QC_Passed,Note
+SMP001,Homo_sapiens,2024-01-12,15423000,YES,High depth
+SMP002,Mus_musculus,2024-01-14,8723000,YES,OK
+SMP003,Arabidopsis_thaliana,2024-02-01,4321000,NO,Low quality
+SMP004,Escherichia_coli,2024-02-10,2210000,YES,Contaminated?
+SMP005,Danio_rerio,2024-02-12,9540000,YES,Good sample
+SMP006,Saccharomyces_cerevisiae,2024-03-02,11200000,NO,Library failed
+SMP007,Homo_sapiens,2024-03-11,18900000,YES,Excellent depth
+SMP008,Bacillus_subtilis,2024-03-15,1950000,YES,Short fragments
+SMP009,Mus_musculus,2024-03-20,10120000,YES,Good
+SMP010,Homo_sapiens,2024-03-21,5600000,NO,Adapter issues

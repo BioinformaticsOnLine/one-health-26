@@ -1,0 +1,5 @@
+Chromosome start end
+chr1     20       30
+chr2  35  50
+chr3 68       90
+chr4   36   68

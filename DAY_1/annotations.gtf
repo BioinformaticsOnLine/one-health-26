@@ -1,0 +1,7 @@
+chr1	ENSEMBL	gene	1000	5000	.	+	.	gene_id "geneA"; gene_type "protein_coding";
+chr1	ENSEMBL	exon	1000	1200	.	+	.	gene_id "geneA";
+chr1	ENSEMBL	exon	2000	2300	.	+	.	gene_id "geneA";
+chr1	ENSEMBL	gene	7000	9500	.	-	.	gene_id "geneB"; gene_type "lincRNA";
+chr1	ENSEMBL	exon	7000	7200	.	-	.	gene_id "geneB";
+chr2	ENSEMBL	gene	4000	6500	.	+	.	gene_id "geneC"; gene_type "protein_coding";
+chr2	ENSEMBL	exon	4000	4300	.	+	.	gene_id "geneC";

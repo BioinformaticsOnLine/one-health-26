@@ -1,0 +1,6 @@
+gene_id	sample1	sample2	sample4	logFC
+BRCA1	12	14	11	2.1
+TP53	5	19	17	8.2
+EGFR	33	29	41	1.4
+MYC	2	3	1	0.3
+GAPDH	1000	1021	980	0.1
