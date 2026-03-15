@@ -73,9 +73,7 @@ GUIs are fine for simple tasks, but the CLI is essential when you need to:
 
 ### Syntax
 
-```
 command -options argument
-```
 
 **Example:** `ls -l Documents` — list contents of `Documents` in long format
 
