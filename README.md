@@ -4,7 +4,18 @@
 ![Workshop Dates](https://img.shields.io/badge/Dates-March%2016--20,%202026-blue?style=for-the-badge)
 ![Organization](https://img.shields.io/badge/CSIR--IGIB-ICMR-success?style=for-the-badge)
 ![Open In Colab](https://img.shields.io/badge/Open_in-Colab-F9AB00?style=for-the-badge&logo=googlecolab)
+[![HPC Cockpit](https://img.shields.io/badge/HPC_Cockpit-Login_Here-8A2BE2?style=for-the-badge&logo=linux)](http://hpcpit.pranjal.work)
+[![Workshop Portal](https://img.shields.io/badge/Workshop_Portal-Schedule-000000?style=for-the-badge&logo=vercel)](http://igib-events.vercel.app)
 
+---
+
+## 🚀 Quick Access Links
+
+> **🖥️ [HPC Resource Cockpit](http://hpcpit.pranjal.work)** > **Workshop Participants:** Click here to log in to your pre-configured HPC server environments for the hands-on sessions.
+>
+> **📅 [Official Workshop Portal](http://igib-events.vercel.app)** > Check here for the live schedule, announcements, and full event details.
+
+---
 Welcome to the official repository for the **Five-day Hands-on Workshop Program on Bioinformatics for One Health and Pathogen-Specific Research**. 
 
 This repository contains all the computational notebooks, scripts, and datasets required for the hands-on sessions. 
