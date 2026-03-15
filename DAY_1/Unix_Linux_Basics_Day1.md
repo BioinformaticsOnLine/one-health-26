@@ -1,4 +1,4 @@
-# Unix & Linux Basics — Day 1
+#  Linux Basics for Bioinformatics — Day 1
 
 > **Five-day Hands-on Workshop Program on Bioinformatics for One Health and Pathogen-Specific Research**  
 > **Instructor:** Anwesha  
