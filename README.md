@@ -73,6 +73,56 @@ Workshop materials and sample datasets will be provided within each daily folder
 
 ---
 
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+## 🌟 Organizing Committee & Contributors
+
+[![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors-)
+A huge thanks to the JN Lab members, resource persons, and volunteers who made this workshop possible ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="20%"><a href="https://github.com/jnarayan81"><img src="https://github.com/jnarayan81.png?s=100" width="100px;" alt="Dr. Jitendra Narayan"/><br /><sub><b>Dr. Jitendra Narayan</b></sub></a><br /><a href="#projectManagement" title="Project Management">📆</a> <a href="#mentoring" title="Mentoring">🧑‍🏫</a></td>
+      <td align="center" valign="top" width="20%"><a href="https://github.com/pranjalpruthi"><img src="https://github.com/pranjalpruthi.png?s=100" width="100px;" alt="Pranjal Pruthi"/><br /><sub><b>Pranjal Pruthi</b></sub></a><br /><a href="#code" title="Code">💻</a> <a href="#infra" title="Infrastructure">🚇</a> <a href="#doc" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="20%"><a href="https://github.com/PRTGRWL"><img src="https://github.com/PRTGRWL.png?s=100" width="100px;" alt="Preeti Agrawal"/><br /><sub><b>Preeti Agrawal</b></sub></a><br /><a href="#mentoring" title="Mentoring">🧑‍🏫</a> <a href="#eventOrganizing" title="Event Organizing">🤝</a></td>
+      <td align="center" valign="top" width="20%"><a href="https://github.com/ajigib"><img src="https://github.com/ajigib.png?s=100" width="100px;" alt="Ajay Bhatia"/><br /><sub><b>Ajay Bhatia</b></sub></a><br /><a href="#mentoring" title="Mentoring">🧑‍🏫</a> <a href="#eventOrganizing" title="Travel & Logistics">🚌</a></td>
+      <td align="center" valign="top" width="20%"><a href="https://github.com/mukulverma22"><img src="https://github.com/mukulverma22.png?s=100" width="100px;" alt="Mukul Verma"/><br /><sub><b>Mukul Verma</b></sub></a><br /><a href="#mentoring" title="Mentoring">🧑‍🏫</a> <a href="#eventOrganizing" title="Event Organizing">🤝</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="20%"><a href="https://github.com/anweshagenomics"><img src="https://github.com/anweshagenomics.png?s=100" width="100px;" alt="Anwesha De"/><br /><sub><b>Anwesha De</b></sub></a><br /><a href="#mentoring" title="Mentoring">🧑‍🏫</a> <a href="#eventOrganizing" title="Event Organizing">🤝</a></td>
+      <td align="center" valign="top" width="20%"><a href="https://github.com/Ronykumawat"><img src="https://github.com/Ronykumawat.png?s=100" width="100px;" alt="Rounak Kumawat"/><br /><sub><b>Rounak Kumawat</b></sub></a><br /><a href="#mentoring" title="Mentoring">🧑‍🏫</a></td>
+      <td align="center" valign="top" width="20%"><a href="https://github.com/nityendra21"><img src="https://github.com/nityendra21.png?s=100" width="100px;" alt="Nityendra Shukla"/><br /><sub><b>Nityendra Shukla</b></sub></a><br /><a href="#mentoring" title="Mentoring">🧑‍🏫</a></td>
+      <td align="center" valign="top" width="20%"><a href="#"><img src="https://ui-avatars.com/api/?name=Shreya+Khanduri&background=random" width="100px;" alt="Shreya Khanduri"/><br /><sub><b>Shreya Khanduri</b></sub></a><br /><a href="#mentoring" title="Mentoring">🧑‍🏫</a></td>
+      <td align="center" valign="top" width="20%"><a href="#"><img src="https://ui-avatars.com/api/?name=Sisodiya+Dhrumil&background=random" width="100px;" alt="Sisodiya Dhrumil"/><br /><sub><b>Sisodiya Dhrumil</b></sub></a><br /><a href="#mentoring" title="Mentoring">🧑‍🏫</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="20%"><a href="#"><img src="https://ui-avatars.com/api/?name=Vaishnavi+Lal&background=random" width="100px;" alt="Vaishnavi Lal"/><br /><sub><b>Vaishnavi Lal</b></sub></a><br /><a href="#eventOrganizing" title="Event Organizing">🤝</a></td>
+      <td align="center" valign="top" width="20%"><a href="#"><img src="https://ui-avatars.com/api/?name=Ankita+Yadav&background=random" width="100px;" alt="Ankita Yadav"/><br /><sub><b>Ankita Yadav</b></sub></a><br /><a href="#eventOrganizing" title="Event Organizing">🤝</a></td>
+      <td align="center" valign="top" width="20%"><a href="#"><img src="https://ui-avatars.com/api/?name=Shashank&background=random" width="100px;" alt="Shashank"/><br /><sub><b>Shashank</b></sub></a><br /><a href="#eventOrganizing" title="Event Organizing">🤝</a></td>
+      <td align="center" valign="top" width="20%"><a href="#"><img src="https://ui-avatars.com/api/?name=Khushi+Jindal&background=random" width="100px;" alt="Khushi Jindal"/><br /><sub><b>Khushi Jindal</b></sub></a><br /><a href="#eventOrganizing" title="Event Organizing">🤝</a></td>
+      <td align="center" valign="top" width="20%"><a href="#"><img src="https://ui-avatars.com/api/?name=Yashika+Ratawal&background=random" width="100px;" alt="Yashika Ratawal"/><br /><sub><b>Yashika Ratawal</b></sub></a><br /><a href="#eventOrganizing" title="Event Organizing">🤝</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="20%"><a href="#"><img src="https://ui-avatars.com/api/?name=Shruti+Chauhan&background=random" width="100px;" alt="Shruti Chauhan"/><br /><sub><b>Shruti Chauhan</b></sub></a><br /><a href="#eventOrganizing" title="Event Organizing">🤝</a></td>
+      <td align="center" valign="top" width="20%"></td>
+      <td align="center" valign="top" width="20%"></td>
+      <td align="center" valign="top" width="20%"></td>
+      <td align="center" valign="top" width="20%"></td>
+    </tr>
+  </tbody>
+</table>
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+<br>
+
+> *"Alone we can do so little; together we can do so much." — Helen Keller*
+
+**A special thank you to all the unnamed volunteers, administrative staff, and supporting members behind the scenes. This 5-day intensive workshop would not be possible without the collective effort of the entire IGIB community.**
+
 ## 📞 Contact Information
 
 **Organising Head:** Dr. Jitendra Narayan 
