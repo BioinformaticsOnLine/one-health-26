@@ -15,7 +15,7 @@ This workflow performs **read alignment and SNP calling** from FASTQ files using
 
 ---
 
-**##Conda Environment Activation**
+## Conda Environment Activation
 ```
 conda activate bioset1
 ```
