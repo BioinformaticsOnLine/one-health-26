@@ -148,7 +148,6 @@ mkdir -p alignment
 mafft \
     --auto \
     --thread 4 \
-    --reorder \
     sequences.fasta > alignment/aligned_mafft.fasta
 ```
 ```
@@ -163,8 +162,6 @@ mafft \
 # Flag explanations:
 # --auto           : Automatically choose strategy based on dataset size
 # --thread         : CPU threads
-# --reorder        : Output sequences in aligned order (not input order)
-# --retree 2       : Fast guide tree (FFT-NS-2 strategy)
 # --localpair      : L-INS-i strategy — highest accuracy
 # --maxiterate     : Number of iterative refinements (1000 = thorough)
 ```
