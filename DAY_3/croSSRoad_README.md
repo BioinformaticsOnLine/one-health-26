@@ -4,7 +4,7 @@ croSSRoad is available in both **GUI** and **CLI** formats.
 
 ## 🔗 GUI and CLI Links
 
-- **GUI:** https://crossroad.bioinformaticsonline.com/analysis  
+- **GUI:** https://crossroad.igib.res.in/analysis 
 - **CLI (GitHub):** https://github.com/BioinformaticsOnLine/croSSRoad  
 
 ---
