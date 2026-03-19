@@ -138,17 +138,13 @@ echo "=== Genome Statistics ==="
 
 echo ""
 echo "📊 K. pneumoniae MVS2:"
-grep -c ">" ~/amr_analysis/genomes/GCF_051414815.1_KpMVS2_genomic.fna \
-  | xargs -I {} echo "  Contigs: {}"
-grep -v ">" ~/amr_analysis/genomes/GCF_051414815.1_KpMVS2_genomic.fna \
-  | wc -c | awk '{print "  Genome size: ~" int($1/1000000) " Mb"}'
+grep -c ">" ~/amr_analysis/genomes/GCF_051414815.1_KpMVS2_genomic.fna | xargs -I {} echo "  Contigs: {}"
+grep -v ">" ~/amr_analysis/genomes/GCF_051414815.1_KpMVS2_genomic.fna | wc -c | awk '{print "  Genome size: ~" int($1/1000000) " Mb"}'
 
 echo ""
 echo "📊 K. pneumoniae ASM5154963v1:"
-grep -c ">" ~/amr_analysis/genomes/GCF_051549635.1_ASM5154963v1_genomic.fna \
-  | xargs -I {} echo "  Contigs: {}"
-grep -v ">" ~/amr_analysis/genomes/GCF_051549635.1_ASM5154963v1_genomic.fna \
-  | wc -c | awk '{print "  Genome size: ~" int($1/1000000) " Mb"}'
+grep -c ">" ~/amr_analysis/genomes/GCF_051549635.1_ASM5154963v1_genomic.fna | xargs -I {} echo "  Contigs: {}"
+grep -v ">" ~/amr_analysis/genomes/GCF_051549635.1_ASM5154963v1_genomic.fna | wc -c | awk '{print "  Genome size: ~" int($1/1000000) " Mb"}'
 
 echo ""
 echo "🔍 First 3 lines of MVS2 FASTA:"
