@@ -117,13 +117,11 @@ echo "📥 Downloading K. pneumoniae genomes from NCBI..."
 
 # Isolate 1: K. pneumoniae MVS2
 echo "Downloading Isolate 1: K. pneumoniae MVS2 (GCF_051414815.1)..."
-wget -q --show-progress -P "$DOWNLOAD_DIR" \
-  https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/051/414/815/GCF_051414815.1_KpMVS2/GCF_051414815.1_KpMVS2_genomic.fna.gz
+wget -q --show-progress -P "$DOWNLOAD_DIR" https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/051/414/815/GCF_051414815.1_KpMVS2/GCF_051414815.1_KpMVS2_genomic.fna.gz
 
 # Isolate 2: K. pneumoniae ASM5154963v1
 echo "Downloading Isolate 2: K. pneumoniae ASM5154963v1 (GCF_051549635.1)..."
-wget -q --show-progress -P "$DOWNLOAD_DIR" \
-  https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/051/549/635/GCF_051549635.1_ASM5154963v1/GCF_051549635.1_ASM5154963v1_genomic.fna.gz
+wget -q --show-progress -P "$DOWNLOAD_DIR" https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/051/549/635/GCF_051549635.1_ASM5154963v1/GCF_051549635.1_ASM5154963v1_genomic.fna.gz
 
 # Decompress
 echo "📦 Decompressing..."
