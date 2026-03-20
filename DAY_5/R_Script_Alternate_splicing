@@ -1,0 +1,7 @@
+install.packages("remotes")
+remotes::install_github("jackhump/leafviz")
+
+#load the library
+library(leafviz)
+
+leafviz("c:/Users/jyoti/Downloads/severe_mild.RData")
